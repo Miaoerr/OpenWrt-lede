@@ -42,3 +42,9 @@ A template for building OpenWrt with GitHub Actions
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+
+
+## More
+N1选择
+选择目标系统-- Target System (QEMU ARM Virtual) --->
+选择处理器型号--Subtarget (ARMv8 multiplatform) --->
